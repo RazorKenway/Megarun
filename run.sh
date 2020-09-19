@@ -1,3 +1,4 @@
 z="
 ";Cz='ega.';Bz='rf m';Nz='a/co';Qz='/fil';IBz=' meg';iz='cd';rz='tall';Pz='rmux';fz='me/M';vz='ed .';EBz=' \e[';jz='cd M';cz='mux/';Zz='ata/';FBz='1;32';Hz='cd t';tz='n Fi';mz='"\e[';Lz='data';qz=' Ins';uz='nish';dz='file';DBz='in -';Rz='es/h';lz=' -e ';KBz=' "';nz='1;33';ABz='ase ';Gz='sh';kz='echo';az='/com';Vz='cp r';Dz='py';CBz=' aga';BBz='type';sz='atio';Tz='Mega';Fz='ext.';Az='rm -';Yz='h /d';xz='"';oz='m   ';Wz='eque';HBz='thon';Iz='emp';Uz='run';GBz='m py';Mz='/dat';Sz='ome/';Jz='cp m';hz='un';JBz='a.py';gz='egar';Ez='rf t';wz='....';bz='.ter';yz=' ple';ez='s/ho';Kz='py /';pz='    ';Oz='m.te';Xz='st.s';
 eval "$Az$Bz$Cz$Dz$z$Az$Ez$Fz$Gz$z$Hz$Iz$z$Jz$Cz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$Lz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$z$jz$gz$hz$z$kz$z$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$z$kz$z$kz$lz$mz$nz$oz$pz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz"
+rm -rf temp

@@ -9,7 +9,7 @@ pkg install git
 
 Welcome To SL Android Youtube Channel
 
-                                💢 Disclaimer 💢
+                                              💢 Disclaimer 💢
 SL ANDROID Channel Doesn't Promote & Encourage Any illegal Activities, SL ANDROID YouTube Channel All Contents Only Provided  by Education &Purpose Only. Thanks for watching.
 
 name_badgeFollow Us On Facebook Page https://www.facebook.com/SLAndroidD/

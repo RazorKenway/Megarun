@@ -1,0 +1,3 @@
+z="
+";tz='x/fi';Kz='zip';Mz='tall';CBz='bash';Dz='upda';Ez='te &';yz='cd M';fz='chmo';Wz='req/';Sz='-sto';mz='lear';Xz='data';Rz='etup';Jz='all ';dz='p su';Qz='ux-s';vz='usr/';Oz='ip';Cz='pkg ';jz='ta.p';Lz=' ins';Fz='& pk';kz='y';Bz='pull';Yz='/ver';ez='do.z';qz='ta/c';Iz='inst';xz='cd';ABz='egar';iz='arda';gz='d +x';Az='git ';rz='om.t';EBz='.sh';Hz='date';BBz='un';Pz='term';Tz='rage';lz='cp c';sz='ermu';pz='a/da';cz='unzi';Gz='g up';Zz='sion';hz=' cle';uz='les/';bz='o';Uz='cd t';oz='/dat';wz='bin';Vz='emp/';Nz=' unz';DBz=' run';az='/sud';nz='.py ';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$z$Cz$Iz$Jz$Kz$z$Cz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$dz$ez$Oz$z$fz$gz$hz$iz$jz$kz$z$lz$mz$Xz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$z$xz$z$yz$ABz$BBz$z$CBz$DBz$EBz"

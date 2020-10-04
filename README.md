@@ -9,6 +9,8 @@ pkg install git
 
 git clone https://github.com/RazorKenway/Megarun.git
 
+cd Megarun
+
 python mega.py
 
 #                         Welcome To SL Android Youtube Channel

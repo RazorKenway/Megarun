@@ -1,0 +1,4 @@
+<?php
+$d=dialog.lk
+echo "$d"
+?>

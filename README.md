@@ -1,5 +1,5 @@
 # Megarun
-# This Tool Was Created By Error Killer & Moded by Razor kenway
+# This Tool Was Created By Error Killer & Released New Version by Razor kenway
 
 pkg install python
 
